@@ -1,2 +1,1 @@
-# ama-company
-ama
+"#" 
