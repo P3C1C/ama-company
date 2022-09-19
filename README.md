@@ -1,0 +1,2 @@
+# ama-company
+ama
